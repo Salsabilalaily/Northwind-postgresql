@@ -1,1 +1,1 @@
-# Northwind-postgresql
+# PostgresqlExercise
